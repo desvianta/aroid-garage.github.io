@@ -82,7 +82,7 @@ nav .nav .icon-menu a {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/bg-home.jpg");
+  background-image: url("./../img/bg-home.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
