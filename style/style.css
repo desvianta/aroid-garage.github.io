@@ -414,6 +414,9 @@ a {
     margin: -3rem 0 0 3rem;
     width: 200px;
   }
+
+  .contact .container .bottom-contact .input-section input {
+    width: 100%;
 }
 
 /* MOBILE */
